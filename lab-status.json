@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-10-31T16:07:02+00:00",
+  "systems": [
+    {
+      "id": "hermes",
+      "status": "up",
+      "uptime30d": 96.6
+    },
+    {
+      "id": "siri-voice-bridge",
+      "status": "up",
+      "lastRun": "2026-10-24T14:59:45+00:00",
+      "uptime30d": 100.0
+    },
+    {
+      "id": "ops-agent",
+      "status": "up",
+      "uptime30d": 96.6
+    },
+    {
+      "id": "homelab-autopilot",
+      "status": "up",
+      "lastRun": "2026-10-31T16:02:23+00:00",
+      "uptime30d": 55.0
+    },
+    {
+      "id": "price-watch",
+      "status": "up",
+      "lastRun": "2026-10-31T16:00:04+00:00",
+      "uptime30d": 100.0
+    },
+    {
+      "id": "kitchen-assistant",
+      "status": "paused"
+    },
+    {
+      "id": "fleet-inspections",
+      "status": "up",
+      "uptime30d": 100.0
+    }
+  ]
+}
